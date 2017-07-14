@@ -1,0 +1,11 @@
+C:\Emgu\emgucv-windows-universal 2.4.10.1940\bin\box.png
+C:\Emgu\emgucv-windows-universal 2.4.10.1940\bin\box_in_scene.png
+C:\Emgu\emgucv-windows-universal 2.4.10.1940\bin\Example.SURFFeature.exe
+C:\Emgu\emgucv-windows-universal 2.4.10.1940\bin\Example.SURFFeature.pdb
+C:\Emgu\emgucv-windows-universal 2.4.10.1940\Emgu.CV.Example\SURFFeature\obj\Debug\SURFFeature.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windows-universal 2.4.10.1940\Emgu.CV.Example\SURFFeature\obj\Debug\Example.SURFFeature.exe
+C:\Emgu\emgucv-windows-universal 2.4.10.1940\Emgu.CV.Example\SURFFeature\obj\Debug\Example.SURFFeature.pdb
+C:\Emgu\emgucv-windows-universal 2.4.10.1940\bin\bg4.jpg
+C:\Emgu\emgucv-windows-universal 2.4.10.1940\bin\lg.jpg
+C:\Emgu\emgucv-windows-universal 2.4.10.1940\Emgu.CV.Example\SURFFeature\obj\Debug\SURFFeature.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windows-universal 2.4.10.1940\Emgu.CV.Example\SURFFeature\obj\Debug\SURFFeatureExample.Form1.resources
